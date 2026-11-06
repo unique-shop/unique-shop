@@ -1,54 +1,72 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Arshia — Developer & Network Engineer | Uniqode Shop" width="100%" />
+</p>
 
-# Hi, I'm Arshia 👋
+<p align="center">
+  <a href="mailto:uniqode.shop@gmail.com"><img src="https://img.shields.io/badge/Let's_talk-Email-38bdf8?style=flat-square&amp;logo=gmail&amp;logoColor=white&amp;labelColor=0f172a" alt="Email Arshia" /></a>
+  <a href="https://discord.gg/SsgeWJjCZ5"><img src="https://img.shields.io/badge/Community-Discord-a78bfa?style=flat-square&amp;logo=discord&amp;logoColor=white&amp;labelColor=0f172a" alt="Join the Discord community" /></a>
+</p>
 
-### Developer & Network Engineer · Founder of Uniqode Shop
+## A little about me
 
-Web development, business automation, and custom FiveM systems.
+I'm **Arshia**, a developer and network engineer, and the founder of **Uniqode Shop**. I build websites, backend services, business tools, and custom FiveM systems.
 
-[Email](mailto:uniqode.shop@gmail.com) · [Discord](https://discord.gg/SsgeWJjCZ5)
+I care about clean code, scalable architecture, and interfaces that feel good to use.
 
-</div>
+<table>
+<tr>
+<td width="33%" valign="top">
 
----
+### 01 / Web
+Website design, frontend interfaces, and backend development.
 
-## About me
+**React · Vue · Laravel · Node.js**
 
-I build websites, backend services, and custom systems through **Uniqode Shop**. My work spans business automation and FiveM server development, with a focus on clean code, scalable systems, and a thoughtful user experience.
+</td>
+<td width="33%" valign="top">
 
-## What I work on
+### 02 / Automation
+Custom systems and tools that simplify business workflows.
 
-| Area | Focus |
+**Python · JavaScript · PHP**
+
+</td>
+<td width="33%" valign="top">
+
+### 03 / FiveM
+Server development and custom gameplay systems.
+
+**Lua · JavaScript · MySQL**
+
+</td>
+</tr>
+</table>
+
+## My toolbox
+
+| Layer | Technologies |
 | :--- | :--- |
-| Web development | Website design, frontend interfaces, and backend services |
-| Business automation | Custom tools and systems for business workflows |
-| FiveM development | Server development and custom gameplay systems |
-| Infrastructure | Web servers and database-backed applications |
+| **Languages** | JavaScript · PHP · Python · Lua |
+| **Frontend** | React · Vue.js · Tailwind CSS · HTML · CSS |
+| **Backend** | Laravel · Node.js · Express |
+| **Data** | MySQL · MariaDB · MongoDB |
+| **Servers** | Nginx · Apache |
 
-## Technologies
+## Around this GitHub
 
-**Languages**  
-JavaScript · PHP · Python · Lua · HTML · CSS
+This is where I share my development work. My interests span **web applications**, **workflow automation**, and **FiveM systems**.
 
-**Frontend**  
-React · Vue.js · Tailwind CSS
+Browse my [public repositories](https://github.com/unique-shop?tab=repositories) to see what's available.
 
-**Backend**  
-Laravel · Node.js · Express
+## Have a project in mind?
 
-**Databases & servers**  
-MySQL · MariaDB · MongoDB · Nginx · Apache
+I'm open to collaboration on web, automation, and FiveM projects.
 
-## Let's collaborate
-
-I'm open to collaboration on **web development, automation, and FiveM projects**.
-
-- **Email:** [uniqode.shop@gmail.com](mailto:uniqode.shop@gmail.com)
-- **Discord:** [Join the community](https://discord.gg/SsgeWJjCZ5)
+**[Send me an email →](mailto:uniqode.shop@gmail.com)** &nbsp; · &nbsp; **[Find me on Discord →](https://discord.gg/SsgeWJjCZ5)**
 
 ---
 
-<div align="center">
-<strong>Uniqode Shop</strong><br>
-Web · Automation · FiveM
-</div>
+<p align="center">
+  <strong>UNIQODE SHOP</strong><br>
+  <sub>Web development &nbsp; / &nbsp; Automation &nbsp; / &nbsp; FiveM</sub>
+</p>
